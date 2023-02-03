@@ -1,0 +1,14 @@
+*.class
+*.zip
+*.jar
+*.swp
+*.tmp
+*/.metadata
+*/.settings
+*/.checkstyle
+*/.project
+*/.classpath
+*/Makefile
+*/bin/
+*/src/Makefile
+*/src/module-info.java
